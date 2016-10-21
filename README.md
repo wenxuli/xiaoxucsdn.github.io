@@ -1,2 +1,2 @@
 # xiaoxucsdn.github.io
-小旭CSDN博客
+小旭的个人简历
